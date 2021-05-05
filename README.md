@@ -34,10 +34,10 @@ Calculate the decrease needed across a specified series of rows to acheive a tap
 ## Stack
 
 This project has been built with:
-React bootstrapped from `create-react-app` 
-`strapi` as a headless CMS
-`graphGL` db
-`netlify` deployed
+- "React"[https://reactjs.org/] bootstrapped from `create-react-app` 
+- "Strapi.io"[strapi.io] as a headless CMS `yarn create strapi-app my-project --quickstart`
+- `graphGL` db
+- `netlify` deployed
 
 #### To run the FE in development mode: 
 ```
