@@ -9,7 +9,7 @@
 
 For those who aren't familar with knitwear design. There is a lot of simple(ish) arithmetic to do if you are working on a new pattern, trust me, you should see my notebook. 
 
-Fed up of having to remember the equation for each different calculation I needed, I thought... ***"I know, I'm a dev, I'll just build them, so I and (you) don't have to do the maths*** so without further a do here we are:
+Fed up of having to remember the equation for each different calculation I needed, I thought... ***"I know, I'm a dev, I'll just build them, so I (and you) don't have to do the maths*** so without further a do here we are:
 
 ## Tools: 
 
