@@ -34,8 +34,8 @@ Calculate the decrease needed across a specified series of rows to acheive a tap
 ## Stack
 
 This project has been built with:
-- "React"[https://reactjs.org/] bootstrapped from `create-react-app` 
-- "Strapi.io"[strapi.io] as a headless CMS `yarn create strapi-app my-project --quickstart`
+- [React](https://reactjs.org/) bootstrapped from `create-react-app` 
+- [Strapi.io](strapi.io as a headless CMS `yarn create strapi-app my-project --quickstart`
 - `graphGL` db
 - `netlify` deployed
 
